@@ -1,1 +1,1 @@
-# linear_models_exam
+# Linear models university course - Final exam 
